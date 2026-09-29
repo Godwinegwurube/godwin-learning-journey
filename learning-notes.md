@@ -1,4 +1,3 @@
-
 ## My Branch Practice
 
-I created my first GitHub branch: learning-branch.
+I am learning how to create and work with branches on GitHub.
