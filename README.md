@@ -16,3 +16,6 @@ This repository documents my progress, lessons, projects, and contributions as I
 - Build practical digital skills
 - Contribute to open-source projects
 - Develop skills for future employment
+## Branch Practice
+
+I am learning how to create branches, make changes, commit changes, and create pull requests on GitHub.
